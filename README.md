@@ -61,6 +61,7 @@ namespace mayeight
  
  
  ##Output:
- 
+ ![ex06](https://user-images.githubusercontent.com/93427253/236788156-838fd3bf-b3d4-49da-b0c8-85898b657bbb.png)
  
  ##Result:
+Thus a C# program to pass values through constructors(default and parameterized) and also overload equal operators by checking whether objects are equal using operator overloading is successfully executed.
